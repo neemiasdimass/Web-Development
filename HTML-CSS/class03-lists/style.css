@@ -1,0 +1,19 @@
+h1,
+h2,
+span {
+  color: #f25e5e;
+}
+img {
+  width: 320px;
+}
+main {
+  width: 320px;
+  margin: auto;
+}
+header,
+footer,
+h2 {
+  text-align: center;
+}
+
+
